@@ -1,0 +1,7 @@
+git init
+echo Matija Fabris > Readme.md
+git add Readme.md
+git commit -m "Prvi commit"
+git remote add origin https://github.com/Matijaaaa/git-demo
+git branch -m main
+git push -u origin main 
